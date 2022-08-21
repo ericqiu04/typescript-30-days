@@ -1,0 +1,4 @@
+1. Finished setting up typescript 
+2. Learned how to compile typescript 
+3. Failed to find tsc available on computer, resulted in using 'npx tsc' instead
+4. Learned types in typescript.
